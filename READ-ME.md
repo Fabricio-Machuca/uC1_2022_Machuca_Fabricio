@@ -2,7 +2,7 @@
 
 **Curso:** Microcontroladores I
 
-**Autor:** 
+**Autor:** Fabricio Carlomagno Machuca De la cruz
 
 **Tarjeta:** Curiosity Nano PIC18F57Q84
 
