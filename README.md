@@ -1,1 +1,22 @@
-# uC1_2022_Machuca_Fabricio
+# UNP
+
+**Curso:** Microcontroladores I
+
+**Autor:** Fabricio Carlomagno Machuca De la cruz
+
+**Tarjeta:** Curiosity Nano PIC18F57Q84
+
+**Entorno:** MAPLAB XIDE
+
+**Lenguaje:** AMS C
+
+**Descripción General:**
+Este es mi repositorio para subir los trabajos y proyectos hechos a lo largo del ciclo académico.
+
+**Corrimiento de Leds:**
+Este programa hace un corrimiento de leds, desde el PORT RC0 hasta el RC7, donde se visualiza el corrimiento par en el PORT RE1 y el corrimiento impar en el RE0
+
+**Display_7SEG:**
+El siguiente programa muestra los valores numéricos del 0 al 9, si
+el botón no está presionado, y si el botón se mantiene presionado,
+mostrará los valores alfabéticos del "A" hasta el "F"
