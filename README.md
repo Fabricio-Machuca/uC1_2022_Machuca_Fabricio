@@ -8,7 +8,7 @@
 
 **Entorno:** MAPLAB XIDE
 
-**Lenguaje:** AMS C
+**Lenguaje:** ASM C
 
 **Descripción General:**
 Este es mi repositorio para subir los trabajos y proyectos hechos a lo largo del ciclo académico.
